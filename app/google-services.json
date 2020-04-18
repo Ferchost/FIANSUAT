@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638539780913",
+    "firebase_url": "https://lachida-8e3b4.firebaseio.com",
+    "project_id": "lachida-8e3b4",
+    "storage_bucket": "lachida-8e3b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638539780913:android:286a1a2a004460e2cf9610",
+        "android_client_info": {
+          "package_name": "com.app.fi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638539780913-98d6kq1l75sbrbfr5at4lo6lhkdu2pkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW-HE0YgrbPsWAKSbEEW7QOgIkf5kfruA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638539780913-98d6kq1l75sbrbfr5at4lo6lhkdu2pkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
